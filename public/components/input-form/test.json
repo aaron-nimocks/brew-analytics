@@ -1,0 +1,21 @@
+{
+  "_index": "temperature1",
+  "_type": "_doc",
+  "_id": "0mqepnYBI_PmrchLebAL",
+  "_score": 1,
+  "_source": {
+    "@timestamp": "2020-11-25T03:59:01.868674000Z",
+    "field": "\"upload_time\"",
+    "message": """ "upload_time": "2020-11-25T03:59:01.868674Z"
+ },
+ {
+ "device_id": "xxxx",
+ "device_data": {
+ "ta": "26.51",
+ "to": "35.79",
+ "dev_id": "xxxx",
+ "barcode": "164378",
+ "file_name": "",
+ "User-Agent": "rrrrr","""
+  }
+}

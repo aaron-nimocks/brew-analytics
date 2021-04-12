@@ -1,0 +1,25 @@
+.brew-analytics .euiPanel {
+border: none;
+}
+
+.brew-analytics .euiFieldText, .brew-analytics .euiComboBox__inputWrap, .brew-analytics .euiTextArea, .brew-analytics .euiRangeInput {
+    background-color: white;
+}
+
+.brew-analytics .clear-background {
+    background-color: transparent;
+}
+
+.brew-analytics .clear-background img {
+    height: 200px;
+    width: 200px;
+}
+
+
+.brew-analytics .clear-background .euiCard__top + .euiCard__content {
+    margin-top: 10px;
+}
+
+.brew-analytics .euiFieldNumber {
+    padding: 6px;
+}
